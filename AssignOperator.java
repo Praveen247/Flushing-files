@@ -19,5 +19,7 @@ System.out.println(a%b);
 int p=a++;
 System.out.println(p);
 System.out.println(a);
+int y=++a;
+System.out.println(y);
 }
 }
