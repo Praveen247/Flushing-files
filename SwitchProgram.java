@@ -36,7 +36,7 @@ default:
 size="unknown";
 System.out.println("Select valid Sizes between 29 to 36");
 break;
-}
+}gi
 System.out.println("Customer selected:"+ size + "." );
 
    
