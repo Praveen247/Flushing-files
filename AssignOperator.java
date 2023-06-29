@@ -19,5 +19,20 @@ System.out.println(a%b);
 int p=a++;
 System.out.println(p);
 System.out.println(a);
+int y=++a;
+System.out.println(y);
+
+int g=a--;
+System.out.println(g);
+System.out.println(a);
+int h=--a;
+System.out.println(h);
+
+System.out.println(a+=b);
+System.out.println(a-=b);
+System.out.println(a*=b);
+System.out.println(a/=b);
+System.out.println(a%=b);
+
 }
 }
